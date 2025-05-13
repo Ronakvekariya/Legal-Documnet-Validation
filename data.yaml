@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['aadharNumber', 'address', 'city', 'dob', 'gender', 'name', 'pincode', 'state']
+
+roboflow:
+  workspace: ngin-xoern
+  project: aadhar_small_annotation
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/ngin-xoern/aadhar_small_annotation/dataset/2

@@ -1,0 +1,5 @@
+train: D:\Elecon\HRMS_Document_validation\dataset\train\images
+val: D:\Elecon\HRMS_Document_validation\dataset\val\images
+
+nc: 2 
+names: ['Adhar Card', 'Pan Card']

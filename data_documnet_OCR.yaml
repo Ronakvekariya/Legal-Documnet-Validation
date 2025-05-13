@@ -1,0 +1,17 @@
+train : D:\Elecon\HRMS_Document_validation\datasetOCR\train\images
+val : D:\Elecon\HRMS_Document_validation\datasetOCR\val\images
+
+nc : 12
+names:
+    0 : "AadharNumber"
+    1 : "AdharAdress"
+    2 : "AdharCity"
+    3 : "AdharDOB"
+    4 : "AdharGender"
+    5 : "AdharName" 
+    6 : "AdharPincode"  
+    7 : "AhadharState" 
+    8 : "PanDOB"
+    9 : "PanFather"
+    10 : "PanName"
+    11 : "PanNumber"

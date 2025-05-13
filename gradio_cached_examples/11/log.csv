@@ -1,0 +1,19 @@
+Detected Components,Extracted Information,flag,username,timestamp
+"{""path"": ""gradio_cached_examples\\11\\Detected Components\\733a58badc1c0c7b2baf\\image.webp"", ""url"": ""/file=C:\\Users\\DC\\AppData\\Local\\Temp\\gradio\\69dac97e9fe997623d55b9345321d18bbd150e171efd99c589c7ba6b6e47d4d8\\image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","🔍 Field 1 (Confidence: 0.76):
+3674 9808 3213
+",,,2025-03-19 22:22:05.877113
+"{""path"": ""gradio_cached_examples\\11\\Detected Components\\47200ec1f32ca068230b\\image.webp"", ""url"": ""/file=C:\\Users\\DC\\AppData\\Local\\Temp\\gradio\\e31598c743cb4f61d5fd8fa8a436b8da350751112bcc6f985e3d266f9e2916e4\\image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","🔍 Field 1 (Confidence: 0.83):
+MALE
+
+
+🔍 Field 2 (Confidence: 0.82):
+3674 9808 3213
+
+
+🔍 Field 3 (Confidence: 0.74):
+Vekariya Ronak Jaysukhbhai
+
+
+🔍 Field 4 (Confidence: 0.74):
+21/08/2004
+",,,2025-03-19 22:22:07.608168

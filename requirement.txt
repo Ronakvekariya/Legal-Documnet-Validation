@@ -1,0 +1,3 @@
+for installing Tesseract-OCR    
+https://stackoverflow.com/questions/46140485/tesseract-installation-in-windows
+
